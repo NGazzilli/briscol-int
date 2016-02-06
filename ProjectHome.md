@@ -1,0 +1,1 @@
+Sistema esperto che gioca a briscola
